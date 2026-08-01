@@ -17,7 +17,7 @@
 
 <p><strong>Enterprise &amp; Work Stack</strong></p>
 <a href="https://skillicons.dev">
-  <img alt="Enterprise Stack" src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,gcp,postgres,mongodb,nodejs" />
+  <img alt="Enterprise Stack" src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,gcp,postgres,mongodb,nodejs,python" />
 </a>
 
 <br /><br />
