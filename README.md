@@ -7,7 +7,7 @@
 </div>
 
 - **Work &amp; Enterprise:** Building enterprise web applications, C# (.NET) backend systems, and automated workflows (N8N, Cloud &amp; AI) on **Azure DevOps**.
-- **Hobbies &amp; Personal:** Crafting game dev projects, custom engine tooling (such as my Web Engine), and modern web apps (JS/TS, React, Next.js).
+- **Hobbies &amp; Personal:** Crafting game dev projects, custom engine tooling, and modern web apps (JS/TS, React, Next.js).
 
 <br />
 
